@@ -21,9 +21,10 @@ Claude - Drafting ideas, searching for similar projects, wiring and techicals
 
 | Fan | Approx. Price | Connector Type | Pros | Cons | Decision |
 |------|--------------:|----------------|------|------|----------|
-| **Arctic P12 A-RGB** | ~$16 | Standard 4-pin PWM + 3-pin 5V ARGB | Affordable, quiet, excellent airflow, low power consumption, easy to wire | Simpler appearance than the Razer fan | Excellent value and a strong alternative |
+| **Arctic P12 A-RGB** | ~$16 ($7 on sale (amazon) | Standard 4-pin PWM + 3-pin 5V ARGB | Affordable, quiet, excellent airflow, low power consumption, easy to wire | Simpler appearance than the Razer fan | Excellent value and a strong alternative |
 | **Razer Kunai 120mm ARGB** | ~$25–45 | Standard 4-pin PWM + 3-pin 5V ARGB | Premium design, customizable lighting, quality construction, compatible with USB-to-12V conversion | More expensive and slightly louder at higher RPMs | ** Selected for the project** |
 | **Corsair iCUE LINK LX120 RGB** | ~$35–45 | Proprietary Corsair iCUE LINK | High-quality fan with premium lighting effects | Requires Corsair's proprietary ecosystem and controller, making integration more difficult | Not selected due to unnecessary complexity |
+|**Noctua NF-P12 redux-1700 PWM** | $16 | Standard 4-Pin PWM + 3 pin 5V A-RGB| afforabble| Good value and strong alternate
 
 https://m.media-amazon.com/images/I/611T+f1qgRL._SX385_.jpg
 
@@ -39,3 +40,12 @@ The customizable lighting adds a polished, premium appearance to the final build
 
 The Razer Kunai offers the right balance between performance, compatibility, and aesthetics. While it costs more than the Arctic alternative, I believe the improved appearance and straightforward integration make it the best fit for this project and my learning goals.
 
+I stumbled upon some CAD models of a very similar design that I want to implement in my final design:
+
+<img width="441" height="342" alt="Screenshot 2026-07-13 at 17 11 39" src="https://github.com/user-attachments/assets/55b8b310-771c-4744-a7a2-9c559608cf7c" />
+
+https://makerworld.bblmw.com/makerworld/model/USf0e74c0e39cc1d/design/2025-01-12_810aa729b34ec.jpg?x-oss-process=image/resize,w_1000/format,webp 
+
+https://makerworld.bblmw.com/makerworld/model/USf0e74c0e39cc1d/757755172/instance/b3691a0717b74142.png?x-oss-process=image%2Fformat%2Cwebp
+
+https://makerworld.bblmw.com/makerworld/model/USd09a412849dba9/design/2025-08-04_63280fa71a038.jpg?x-oss-process=image/resize,w_1000/format,webp
