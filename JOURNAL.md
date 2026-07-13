@@ -49,3 +49,8 @@ https://makerworld.bblmw.com/makerworld/model/USf0e74c0e39cc1d/design/2025-01-12
 https://makerworld.bblmw.com/makerworld/model/USf0e74c0e39cc1d/757755172/instance/b3691a0717b74142.png?x-oss-process=image%2Fformat%2Cwebp
 
 https://makerworld.bblmw.com/makerworld/model/USd09a412849dba9/design/2025-08-04_63280fa71a038.jpg?x-oss-process=image/resize,w_1000/format,webp
+
+
+After 'Clauding' and searching the internet- ive came up with this brainstorm using canva: 
+
+<img width="1096" height="602" alt="Screenshot 2026-07-13 at 17 41 38" src="https://github.com/user-attachments/assets/971f39cf-1d00-4a51-9c0e-1886a2800eba" />
