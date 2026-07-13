@@ -15,7 +15,7 @@ Claude - Drafting ideas, searching for similar projects, wiring and techicals
 
 
 ## Entry 1: setting up Onshape and Selecting a fan for project 
-#### July 13 2026: 14:00-16:50 hours 
+#### July 13 2026: 14:30-16:50 hours 
 
 ### Fan Comparison
 
