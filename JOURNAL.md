@@ -28,18 +28,13 @@ https://m.media-amazon.com/images/I/611T+f1qgRL._SX385_.jpg
 
 When selecting a fan for this project, I considered three main factors: **compatibility**, **ease of integration**, and **overall appearance**.
 
-While the **Arctic P12 A-RGB** offers the best value for the money, I ultimately chose the **Razer Kunai 120mm ARGB** because I wanted the finished build to be both functional and visually appealing. Since this is my first hardware project through **Hack Club Stasis**, I wanted to create something I would be proud to display and document.
+While the **Arctic P12 A-RGB** offers the best value for the money, I ultimately chose the **Razer Kunai 120mm ARGB** because I wanted the finished build to be both functional and visually appealing. Since this is my first hardware project through **Hack Club Stardance**, I wanted to create something I would be proud to display and document and share with others.
 
 Unlike the **Corsair iCUE LINK LX120**, which relies on a proprietary ecosystem, the Razer Kunai uses standard **4-pin PWM** and **3-pin 5V ARGB** connectors. This makes it much easier to power and integrate into a custom USB-powered cooling stand without requiring additional proprietary hardware.
 
-I also already own several Razer products, including a **Razer Basilisk mouse**, **Razer x Gillette razor**, and **Razer Kraken X headset**. As a result, I have developed an appreciation for Razer's design language and product aesthetic. Choosing the Kunai allows the project to fit naturally alongside the rest of my setup while maintaining a consistent look.
+I also already own several Razer products, including a **Razer Basilisk (V3) mouse **, **Razer x Gillette razor**, and **Razer Kraken X headset**. As a result, I have developed an appreciation for Razer's design language and product aesthetic and choosing the Kunai allows the project to fit naturally alongside the rest of my setup.
 
-The customizable lighting adds a polished, premium appearance to the final build. Although it does not improve cooling performance, it makes the project more engaging to showcase in photos, videos, and GitHub documentation.
+The customizable lighting adds a polished, premium appearance to the final build. Although it does not improve cooling performance, it makes the project more engaging to showcase in photos, videos, and GitHub documentation. I also have the Razer Synapse app installed on my Mac mini- so integrated it with the fan and my mouse would be cool as well. 
 
-Overall, the Razer Kunai offers the right balance between performance, compatibility, and aesthetics. While it costs more than the Arctic alternative, I believe the improved appearance and straightforward integration make it the best fit for this project and my learning goals.
+The Razer Kunai offers the right balance between performance, compatibility, and aesthetics. While it costs more than the Arctic alternative, I believe the improved appearance and straightforward integration make it the best fit for this project and my learning goals.
 
-### Final Selection
-
-**Selected Fan:** **Razer Kunai 120mm ARGB**
-
-**Reason:** The Razer Kunai provides reliable cooling, uses standard connectors that are easy to integrate into a custom USB-powered setup, and offers a premium design that complements the overall look of the project. Although it is more expensive than the Arctic P12 A-RGB, its combination of compatibility, build quality, and appearance makes it the best choice for this Mac mini cooling stand.
