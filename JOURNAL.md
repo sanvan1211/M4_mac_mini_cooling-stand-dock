@@ -54,3 +54,44 @@ https://makerworld.bblmw.com/makerworld/model/USd09a412849dba9/design/2025-08-04
 After 'Clauding' and searching the internet- ive came up with this brainstorm using canva: 
 
 <img width="1096" height="602" alt="Screenshot 2026-07-13 at 17 41 38" src="https://github.com/user-attachments/assets/971f39cf-1d00-4a51-9c0e-1886a2800eba" />
+
+
+## Entry 2: desining the dock in onshape 
+
+Today was one of those days where I got humbled, I did not know CAD was going to be this tedious. 
+
+I sat down thinking I'd knock out a decent chunk of the stand in a couple of hours. In my head it was basically, "draw a square, cut a few holes, done." Instead, I spent the first hour just learning how Onshape actually wants you to think. It's funny because I'm so used to writing code (or vibecoding) where you can usually figure out what's wrong from an error message. CAD isn't like that at all. If you click the wrong face, forget a constraint, or select one extra sketch region, the entire feature changes and you don't even realize why. Even if its off by a few degrees or millimeters, the entire design can be the opposite of what you intended for. 
+
+I started by creating the base plate for the stand. I sketched out a **150 mm × 150 mm** square, learned how to fully define a sketch with dimensions, and extruded it into a **4 mm thick** plate. That alone taught me more than I expected. I finally understood why people stress making sketches "fully constrained" instead of just eyeballing everything.
+
+After that I worked on the airflow opening. The whole point of this project is to cool the Mac mini better, so getting the fan placement right is one of the most important parts. I cut the large center opening and then added the **four 4.3 mm mounting holes** using the standard **105 mm mounting pattern** for a 120 mm fan. It took me way longer than it probably should have because I kept accidentally selecting the wrong geometry.
+
+At one point I genuinely thought I had destroyed my entire model.
+
+I used **Extrude and Remove** on the mounting holes, hit the green checkmark, and suddenly all of my circles disappeared. My first thought was, "Great... I somehow deleted everything." After a few minutes of panicking (and almost reaching for Ctrl+Z), I realized Onshape was actually doing exactly what it was supposed to do—the sketch gets consumed once it becomes a real feature. 
+
+ I imported a **STEP model of the M4 Mac mini** into Onshape so I could design around the actual computer instead of guessing dimensions. Seeing the Mac mini sitting inside my workspace made the project feel a lot more real. Eventually I'll use that model to make sure the stand, fan, and mounting points all line up correctly before I ever print anything.
+
+The biggest lesson today was that CAD required A LOT of patience.
+
+I came into this project thinking my experience with programming would make learning CAD pretty easy. Instead, I realized they're almost opposite ways of thinking. Programming is logical and sequential. CAD is incredibly visual and detail-oriented. Tiny decisions you make at the beginning affect everything that comes after. It's honestly been a humbling experience.
+
+Even though I probably spent more time troubleshooting than actually designing, I ended the day with a completed base plate, a proper airflow cutout, and correctly spaced fan mounting holes. 
+
+I'm definitely still a beginner, and there were moments today where I questioned if I was doing anything correctly. But compared to where I was this morning—staring at a blank workspace with no idea where to click—I can already see progress. That's probably the coolest part of this project so far. Every mistake is making the next step just a little bit easier.
+
+
+<img width="886" height="749" alt="Screenshot 2026-07-14 at 21 10 15" src="https://github.com/user-attachments/assets/739361fd-d6f3-4f1c-aa61-54a1db1264ae" />
+
+<img width="896" height="694" alt="Screenshot 2026-07-14 at 19 41 06" src="https://github.com/user-attachments/assets/d4401d4f-da7a-4890-a478-a95e4ec4ec9f" />
+
+<img width="1262" height="784" alt="Screenshot 2026-07-14 at 21 02 02" src="https://github.com/user-attachments/assets/d261f6c0-fbd5-454e-9c6e-411b7d51ce06" />
+
+This is a mac mini display I used as refernce while working on my design: 
+https://grabcad.com/library/mac-mini-m4-2024-1
+
+<img width="261" height="185" alt="Screenshot 2026-07-14 at 21 12 35" src="https://github.com/user-attachments/assets/42b29af9-cc76-4268-bf68-4ad9db0cd383" />
+
+<img width="871" height="704" alt="Screenshot 2026-07-14 at 21 11 47" src="https://github.com/user-attachments/assets/2c36702c-38c9-49ef-b373-f469774b228c" />
+
+
