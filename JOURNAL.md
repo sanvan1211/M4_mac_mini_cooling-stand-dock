@@ -1,4 +1,4 @@
-# M4 Mac mini cooling standProject Journal
+# M4 Mac mini cooling dock project Journal
 
 ## This is my journal for this project
 
