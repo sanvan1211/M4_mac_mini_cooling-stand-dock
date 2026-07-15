@@ -78,8 +78,7 @@ I came into this project thinking my experience with programming would make lear
 
 Even though I probably spent more time troubleshooting than actually designing, I ended the day with a completed base plate, a proper airflow cutout, and correctly spaced fan mounting holes. 
 
-I'm definitely still a beginner, and there were moments today where I questioned if I was doing anything correctly. But compared to where I was this morning—staring at a blank workspace with no idea where to click—I can already see progress. That's probably the coolest part of this project so far. Every mistake is making the next step just a little bit easier.
-
+I'm definitely still a beginner, and there were moments today where I questioned if I was doing anything correctly. (But compared to where I was this morning) staring at a blank workspace with no idea where to click—I can already see progress. That's probably the coolest part of this project so far. 
 
 <img width="886" height="749" alt="Screenshot 2026-07-14 at 21 10 15" src="https://github.com/user-attachments/assets/739361fd-d6f3-4f1c-aa61-54a1db1264ae" />
 
