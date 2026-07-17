@@ -4,7 +4,7 @@ An elevated cooling stand for the Apple M4 Mac mini, designed from scratch in On
  
 My first CAD project, built through [Hack Club Stardance](https://stardance.hackclub.com/home) to learn mechanical CAD. 
 
-Link to design on Onshape: [Mac Mini Cooling Dock](https://cad.onshape.com/documents/3fbcf659d7555b2671177b8a/w/d5bac3fdae6cccac52d5566e/e/496516c27ea7f88feafa57b4?renderMode=0&uiState=6a5a508fbe1f95ed6b5cbf81)
+Link to design on Onshape: [Mac Mini Cooling Dock]((https://cad.onshape.com/documents/3fbcf659d7555b2671177b8a/w/d5bac3fdae6cccac52d5566e/e/496516c27ea7f88feafa57b4?renderMode=0&uiState=6a5a508fbe1f95ed6b5cbf81))
  
 > **Status:** Design complete. ready to ship
 
