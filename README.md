@@ -3,6 +3,8 @@
 An elevated cooling stand for the Apple M4 Mac mini, designed from scratch in Onshape. It lifts the mini off the desk, mounts a 120mm fan underneath that blows cool air up into the mini's bottom intake, and adds RGB underglow — powered over USB with a single on/off switch.
  
 My first CAD project, built through [Hack Club Stardance](https://stardance.hackclub.com/home) to learn mechanical CAD. 
+
+Link to design on Onshape: [Mac Mini Cooling Dock](https://cad.onshape.com/documents/3fbcf659d7555b2671177b8a/w/d5bac3fdae6cccac52d5566e/e/496516c27ea7f88feafa57b4?renderMode=0&uiState=6a5a508fbe1f95ed6b5cbf81)
  
 > **Status:** Design complete. ready to ship
 
