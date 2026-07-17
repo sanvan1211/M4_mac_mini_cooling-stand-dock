@@ -52,3 +52,8 @@ USB-A power -> trunk cable (switch inline) -> Y-splitter
 - [ ] Thermal test: temps with stand off vs. on
 - [ ] v2 tweaks from the print
 - [ ] Future: CFD airflow sim
+
+## Screenshots in onshape 
+<img width="868" height="656" alt="Screenshot 2026-07-17 at 12 10 19" src="https://github.com/user-attachments/assets/9626acba-e64f-46a5-baa0-87d90f6107cc" />
+<img width="849" height="718" alt="Screenshot 2026-07-17 at 12 10 11" src="https://github.com/user-attachments/assets/fc4deed6-dfbc-4acf-90b3-91f83b1877c1" />
+
