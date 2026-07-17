@@ -107,7 +107,7 @@ The main goal today was finishing the rest of the enclosure body and making the 
 
 The first thing I worked on was the intake opening. Originally, the opening had sharp edges, which technically works, but it isn't ideal for airflow. I decided to add fillets and smooth out the transition into the enclosure.
 
-### Radiused inlet and computational fluid dyanmics (CFD)
+### Radiused inlet and computational fluid dyanamics (CFD)
 
 The engineering principle behind this design is a **radiused inlet**. Instead of forcing incoming air to make a sudden **90-degree turn** around a sharp edge, the rounded surface creates a smoother transition that allows the airflow to follow the intended path. This reduces the likelihood of **flow separation**, where air detaches from the surface and creates recirculation regions, increased turbulence, and inefficient airflow patterns. By maintaining smoother streamlines and reducing stagnant zones near the intake, a radiused inlet can improve the overall efficiency of the cooling system.
 
