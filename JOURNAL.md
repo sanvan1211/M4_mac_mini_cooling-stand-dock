@@ -24,7 +24,7 @@ Claude - Drafting ideas, searching for similar projects, wiring and techicals
 | **Arctic P12 A-RGB** | ~$16 ($7 on sale (amazon) | Standard 4-pin PWM + 3-pin 5V ARGB | Affordable, quiet, excellent airflow, low power consumption, easy to wire | Simpler appearance than the Razer fan | Excellent value and a strong alternative |
 | **Razer Kunai 120mm ARGB** | ~$25–45 | Standard 4-pin PWM + 3-pin 5V ARGB | Premium design, customizable lighting, quality construction, compatible with USB-to-12V conversion | More expensive and slightly louder at higher RPMs | ** Selected for the project** |
 | **Corsair iCUE LINK LX120 RGB** | ~$35–45 | Proprietary Corsair iCUE LINK | High-quality fan with premium lighting effects | Requires Corsair's proprietary ecosystem and controller, making integration more difficult | Not selected due to unnecessary complexity |
-|**Noctua NF-P12 redux-1700 PWM** | $16 | Standard 4-Pin PWM + 3 pin 5V A-RGB| afforabble| Good value and strong alternate
+|**Noctua NF-P12 redux-1700 PWM** | $16 | Standard 4-Pin PWM + 3 pin 5V A-RGB| affordable| Good value and strong alternate | boxy-like shape 
 
 https://m.media-amazon.com/images/I/611T+f1qgRL._SX385_.jpg
 
