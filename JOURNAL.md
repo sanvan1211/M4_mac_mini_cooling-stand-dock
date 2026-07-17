@@ -14,7 +14,7 @@ This project is being completed through Hack Club.
 Claude - Drafting ideas, searching for similar projects, wiring and techicals
 
 
-## Entry 1: setting up Onshape and Selecting a fan for project 
+# Entry 1: setting up Onshape and Selecting a fan for project 
 #### July 13 2026: 14:30-16:50 hours 
 
 ### Fan Comparison
@@ -56,7 +56,8 @@ After 'Clauding' and searching the internet- ive came up with this brainstorm us
 <img width="1096" height="602" alt="Screenshot 2026-07-13 at 17 41 38" src="https://github.com/user-attachments/assets/971f39cf-1d00-4a51-9c0e-1886a2800eba" />
 
 
-## Entry 2: desining the dock in onshape 
+# Entry 2: Desining the dock in onshape 
+#### July 14 2026 
 
 Today was one of those days where I got humbled, I did not know CAD was going to be this tedious. 
 
@@ -93,4 +94,86 @@ https://grabcad.com/library/mac-mini-m4-2024-1
 
 <img width="871" height="704" alt="Screenshot 2026-07-14 at 21 11 47" src="https://github.com/user-attachments/assets/2c36702c-38c9-49ef-b373-f469774b228c" />
 
+# Entry 3: Applying Fluid Dynamic Principles to the body & getting better at CAD
+#### July 16 2026
 
+Today was probably the day where CAD finally started making sense.
+
+When I first started this project, every little thing felt like a battle with the software. I was constantly asking Claude where to click, what tool to use, or what happend to my circles. Today was different though. I was actually able to navigate sketches, change dimensions, and make design decisions without needing someone (or some LLM) to walk me through every single step.
+
+I’m finally starting to get the hang of CAD.
+
+The main goal today was finishing the rest of the enclosure body and making the airflow design cleaner.
+
+The first thing I worked on was the intake opening. Originally, the opening had sharp edges, which technically works, but it isn't ideal for airflow. I decided to add fillets and smooth out the transition into the enclosure.
+
+### Radiused inlet and computational fluid dyanmics (CFD)
+
+The engineering principle behind this design is a **radiused inlet**. Instead of forcing incoming air to make a sudden **90-degree turn** around a sharp edge, the rounded surface creates a smoother transition that allows the airflow to follow the intended path. This reduces the likelihood of **flow separation**, where air detaches from the surface and creates recirculation regions, increased turbulence, and inefficient airflow patterns. By maintaining smoother streamlines and reducing stagnant zones near the intake, a radiused inlet can improve the overall efficiency of the cooling system.
+
+To understand how inlet geometry affects airflow behavior, computational fluid dynamics (CFD) simulations can be used to visualize velocity changes and flow separation regions. The figure below demonstrates how airflow behaves around an intake opening. Areas of lower velocity (blue regions) indicate regions where airflow slows down, which can correspond to recirculation zones and potential flow separation. 
+
+<img width="680" height="571" alt="image" src="https://github.com/user-attachments/assets/e537d03b-eaf0-4873-8bc1-333dcc74f225" />
+
+Sharp edges can create abrupt changes in flow direction, causing the airflow to detach from the surface and form turbulent wake regions behind the intake. By introducing a radiused inlet, the transition into the opening becomes smoother, allowing streamlines to remain more attached and reducing areas of stagnant airflow.
+
+This same principle applies to the enclosure design. A rounded fan intake reduces sudden pressure changes at the entrance, improving airflow consistency and allowing the cooling fan to operate more efficiently.
+
+Source:
+"Trust me bro", (jk): 
+- Anderson, J. D. *Fundamentals of Aerodynamics*, 6th Edition, McGraw-Hill Education, 2017.
+- NASA Glenn Research Center — Boundary Layer and Flow Separation Concepts: (https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/boundary-layer/)
+- https://www.researchgate.net/publication/259889963_On_The_Use_Of_InflowOutflow_Boundary_Conditions_In_Incompressible_Internal_Flow_Problems_Using_Smoothed_Particle_Hydrodynamics
+
+I’m not claiming that adding a few fillets will magically drop temperatures by 20 degrees (and thats not the point of this project), but it was cool being able to apply actual fluid dynamics concepts to something I was designing. Even the small details like edge geometry can matter when designing parts that interact with airflow, even on a miniscule applciation like this-cooling an already cool Mac Mini. 
+
+## Fan Reference Dimensions
+
+For the fan mounting system, I used the specifications from Razer’s Kunai Hydraulic Chroma Case Fans as a reference:
+
+- Dimensions: **120mm × 25mm × 120mm**
+- Fan size: **120mm**
+- Thickness: **25mm**
+
+Sources:
+- https://mysupport.razer.com/app/answers/detail/a_id/5732/~/razer-kunai-hydraulic-chroma-case-fans-%7C-rc21-01800-support-%26-faqs
+- https://www.youtube.com/watch?v=nCtzMYYiK6Q
+
+<img width="527" height="321" alt="Screenshot 2026-07-16 at 21 03 44" src="https://github.com/user-attachments/assets/19738e82-6abe-427a-af61-abbe5af8e265" />
+
+<img width="1154" height="782" alt="Screenshot 2026-07-16 at 21 01 50" src="https://github.com/user-attachments/assets/ea91190a-7b8a-4fac-a035-2cbc53a3e673" />
+
+### Reinforcing the Fan Mounts
+
+After fixing the airflow, I moved onto strengthening the fan mounting points.
+
+I went back and resized the corner screw holes from **4.3mm to 5.6mm**. Then I created raised mounting bosses around each hole. These add extra material around the mounting points, making the enclosure stronger and giving the screws/inserts more support.
+
+Originally, I was planning on saving these for a later version, but I decided to try making them myself. The gussets connect the fan bosses to the walls of the enclosure, which creates a stronger structure and helps spread out stress instead of concentrating it around one small area.
+
+### Final Result
+
+After a lot of filleting, extruding, tweaking dimensions, and fixing small mistakes, I ended up with this version:
+
+<img width="928" height="770" alt="Screenshot 2026-07-16 at 21 44 50" src="https://github.com/user-attachments/assets/29fb4131-8670-40c4-917b-804a40a72f1d" />
+
+<img width="835" height="651" alt="Screenshot 2026-07-16 at 21 55 36" src="https://github.com/user-attachments/assets/65014937-8787-45a7-aa83-1d9f737c10e9" />
+
+Completed today:
+- Smoothed and radiused airflow inlet
+- Improved interior airflow 
+- Resized fan mounting holes to 5.6mm
+- Added reinforced fan bosses
+- Added corner gussets for extra structural support
+- Added interior and exterior fillets
+- Adjusted and finalized bottom geometry
+
+## Remaining Tasks
+- Add vents for airflow
+- Add switch cutout ( i might do this)
+- Add silicone pad mounting locations ( not that important)
+- Final CAD cleanup
+- Export STL/STEP files for manufacturing and testing
+- Put the M4 MAC MINI cad alongside this
+
+I also might do an airflow simulation later to see how it performs and actually visualize those CFD applications on my design. 
