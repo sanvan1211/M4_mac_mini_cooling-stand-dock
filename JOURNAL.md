@@ -177,3 +177,48 @@ Completed today:
 - Put the M4 MAC MINI cad alongside this
 
 I also might do an airflow simulation later to see how it performs and actually visualize those CFD applications on my design. 
+
+## Entry 4: Adding the side vents and finishing the design: 
+#### July 17, 2026
+
+Today I finished up my design, its pretty cool that this was my first CAD project and I was able to use this software for something practical. Today was mostly about adding side vents and holes for cables and the pwr switch. 
+
+### Side Ventilation
+
+I designed ventilation slots on all four side walls to improve airflow into the enclosure. Instead of using circular holes, I went with long horizontal slots because they provide a cleaner appearance while still allowing a large amount of air to reach the cooling fan.
+
+<img width="648" height="616" alt="Screenshot 2026-07-17 at 11 03 05" src="https://github.com/user-attachments/assets/67143bc5-0fde-4952-9f06-cf457e1d1232" />
+
+To create the vents, I:
+- Created sketches directly on the side wall faces.
+- Used center-point rectangles to define each vent slot.
+- Dimensioned the slots for consistency.
+- Used **Extrude Cut** to remove material.
+- Applied **Linear Pattern** to evenly replicate the slots across each wall.
+- Used **Mirror** where appropriate to keep the vent layout symmetrical between opposite sides.
+
+The rear panel was designed with a more open layout since it also needs to accommodate the power switch and cable routing.
+
+### Power Switch & Cable Openings
+
+After finishing the ventilation, I added dedicated openings for the fan's power switch and power cable on the back panel. These cutouts ensure the fan can be powered externally without interfering with the airflow path or requiring modifications after printing.
+
+The switch I will be using is a: DaierTek mini rocker switch with a 19.2 × 12.7 mm panel cutout
+
+### CAD Skills:
+- Sketching on non-horizontal faces
+- Center-point rectangles
+- Dimensioning sketches
+- Extrude Cut
+- Linear Pattern
+- Mirror
+- Planning feature placement around existing geometry
+
+Overall, today's progress moved the enclosure much closer to a printable prototype. Most of the external airflow and hardware features are now complete, leaving mainly refinement and testing before the first print.
+
+<img width="590" height="663" alt="Screenshot 2026-07-17 at 11 04 30" src="https://github.com/user-attachments/assets/11dab0ba-5372-43f3-a7ce-1eb761941c29" />
+<img width="661" height="641" alt="Screenshot 2026-07-17 at 11 04 18" src="https://github.com/user-attachments/assets/68c3887b-9283-4801-bc98-16edce849ffc" />
+<img width="632" height="717" alt="Screenshot 2026-07-17 at 11 04 01" src="https://github.com/user-attachments/assets/337013dd-da89-4833-aebb-f306087f482c" />
+
+
+## Entry 5: Testing
