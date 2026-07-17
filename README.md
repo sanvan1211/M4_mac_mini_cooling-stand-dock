@@ -33,7 +33,7 @@ USB-A power -> trunk cable (switch inline) -> Y-splitter
  
 ## Files
  
-- **[BOM.md](BOM.md)** — full parts list, links, cost (~$115 core build)
+- **[BOM.md](BOM.md)** — full parts list, links, cost (~$70 core build)
 - **[reflections.md](reflections.md)** — what I learned building it
 - `cad/` — STEP (source) + STL (for printing)
 ## Assembly notes
