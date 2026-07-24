@@ -11,7 +11,8 @@
 This project is being completed through Hack Club.
 
 ### Tools/Software used: 
-Claude - Drafting ideas, searching for similar projects, wiring and techicals
+Claude - Drafting ideas, searching for similar projects, 
+Onshape- CAD Software 
 
 
 # Entry 1: setting up Onshape and Selecting a fan for project 
