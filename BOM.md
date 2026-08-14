@@ -1,6 +1,6 @@
 # Bill of Materials — M4 Mac Mini Cooling Stand / Dock
 
-**Project:** Elevated aRGB cooling stand for the M4 Mac mini
+**Project:**  cooling stand for the M4 Mac mini
 **Author:** Sanhith Vandara
 **Version:** v2 (A-tier submission)
 **Last updated:** August 2026
