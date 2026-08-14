@@ -1,13 +1,13 @@
-Item,Category,Purpose,Pack,Qty Used,Est. Price (USD),Product Link
-Razer Kunai Hydraulic 120mm aRGB Fan,Fan,Main cooling fan + underglow lighting,single,1,35.00,https://www.amazon.com/Razer-Kunai-Hydraulic-120MM-aRGB/dp/B09JRMGLQF
-CRJ 12V Step-Up USB Fan Power Cable,Power,Boosts USB 5V to 12V for the fan motor,single,1,13.00,https://www.amazon.com/CRJ-Voltage-Step-Up-Sleeved-Adapter/dp/B07QFG6LFR
-ELFJMZP USB 5V 3-Pin ARGB Controller,Lighting,Drives the fan aRGB LEDs from USB (no motherboard),single,1,10.00,https://www.amazon.com/ELFJMZP-ARGB-LED-Controller-3-Pin/dp/B0FLY3J3YZ
-USB-A 1-to-2 Y Splitter Cable,Wiring,Splits switched power to fan + LED branches,single,1,8.00,https://www.amazon.com/Splitter-Female-Adapter-Extension-Devices/dp/B0B4MZLY6W
-USB 2.0 A-Male to A-Female Extension (3ft),Wiring,Trunk cable - switch splices inline here,single,1,7.00,https://www.amazon.com/AmazonBasics-Male-Female-Extension-Cable/dp/B001TH7GV4
-DaierTek Mini Rocker Switch KCD1 (10-pack),Switch,Master on/off for the unit,10,1,9.00,https://www.amazon.com/DaierTek-250VAC-Rocker-KCD1-101-Plastic/dp/B07S2QJKTX
-M4 Brass Heat-Set Inserts (50-pack),Fasteners,Threads in printed bosses for fan mounting,50,4,9.00,https://www.amazon.com/Threaded-Inserts-Plastic-Printing-Components/dp/B0DNTVDGMB
-M4 Machine Screws Assortment,Fasteners,Mount the fan into the inserts,kit,4,9.00,https://www.amazon.com/s?k=m4+machine+screws+assortment+kit
-Heat Shrink Tubing Assortment,Wiring,Insulate the switch splice,kit,a few,7.00,https://www.amazon.com/s?k=heat+shrink+tubing+kit+assorted
-Silicone Adhesive Feet,Assembly,Anti-slip + small bottom air gap,set,4,7.00,https://www.amazon.com/s?k=silicone+adhesive+bumper+feet
-PETG Filament 1kg,Materials,3D printing the enclosure (uses ~150g),1kg,1,20.00,https://www.amazon.com/s?k=petg+filament+1.75mm+1kg
-TOTAL,,,,,134.00,
+Item,Category,Purpose,Source,Est. Price (USD),Link,Link Type
+Razer Kunai Hydraulic 120mm aRGB Fan,Fan,Main cooling fan + underglow,Amazon,35.00,https://www.amazon.com/Razer-Kunai-Hydraulic-120MM-aRGB/dp/B09JRMGLQF,item
+USB 5V to 12V Step-Up Cable (3/4-pin fan end),Power,Boosts USB 5V to 12V for the fan motor,AliExpress,2.00,https://www.aliexpress.com/item/1005006048065687.html,item - VERIFY fan connector not barrel jack
+ELFJMZP USB 5V 3-Pin ARGB Controller,Lighting,Drives fan LEDs from USB - NO SATA available,Amazon,10.00,https://www.amazon.com/ELFJMZP-ARGB-LED-Controller-3-Pin/dp/B0FLY3J3YZ,"item - kept on Amazon, see note"
+USB-A 1-to-2 Y Splitter Cable,Wiring,Splits switched power to fan + LED branches,AliExpress,1.50,https://www.aliexpress.com/w/wholesale-usb-splitter-1-male-to-2-female.html,search
+USB 2.0 A-Male to A-Female Extension (1m),Wiring,Trunk cable - switch splices inline here,AliExpress,1.50,https://www.aliexpress.com/w/wholesale-usb-2-0-extension-cable-male-to-female.html,search
+KCD1 Mini Rocker Switch (5-pack),Switch,Master on/off for the unit,AliExpress,1.80,https://www.aliexpress.com/w/wholesale-kcd1-rocker-switch.html,search
+M4 Brass Heat-Set Inserts (20-pack),Fasteners,Threads in printed bosses,AliExpress,2.20,https://www.aliexpress.com/w/wholesale-m4-brass-heat-set-insert.html,search
+M4 x 20mm Machine Screws (20-pack),Fasteners,Mount the fan into the inserts,AliExpress,1.80,https://www.aliexpress.com/w/wholesale-m4-hex-socket-cap-screw.html,search
+Heat-Set Insert Soldering Tips,Tooling,Seats brass inserts squarely,AliExpress,3.00,https://www.aliexpress.com/w/wholesale-soldering-iron-heat-set-insert-tip.html,search - match iron thread
+Heat Shrink Tubing Assortment,Wiring,Insulate the switch splice,AliExpress,1.50,https://www.aliexpress.com/w/wholesale-heat-shrink-tube-assortment-kit.html,search
+Silicone Adhesive Feet (20-pack),Assembly,Anti-slip + small bottom air gap,AliExpress,1.20,https://www.aliexpress.com/w/wholesale-silicone-rubber-bumper-feet-adhesive.html,search
+TOTAL,,,,61.50,,
