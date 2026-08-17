@@ -45,6 +45,7 @@ USB-A power -> trunk cable (switch inline) -> Y-splitter
 - Splice the switch inline on the USB 5V wire, then split to the boost cable (motor) and aRGB controller (LEDs).
 - Walls are 8 mm — thicker than the switch's snap clips, so it's friction-fit for v1 (thinned pocket planned for v2).
 - Add silicone feet for grip and a small air gap.
+
 ## Roadmap
  
 - [ ] Print v1 and test-fit
@@ -52,6 +53,9 @@ USB-A power -> trunk cable (switch inline) -> Y-splitter
 - [ ] Thermal test: temps with stand off vs. on
 - [ ] v2 tweaks from the print
 - [ ] Future: CFD airflow sim
+
+## schematics 
+<img width="745" height="465" alt="Screenshot 2026-08-17 at 13 00 34" src="https://github.com/user-attachments/assets/ccfaa18a-7e90-4e09-b864-d8136a572a0d" />
 
 ## Screenshots in onshape 
 <img width="868" height="656" alt="Screenshot 2026-07-17 at 12 10 19" src="https://github.com/user-attachments/assets/9626acba-e64f-46a5-baa0-87d90f6107cc" />
