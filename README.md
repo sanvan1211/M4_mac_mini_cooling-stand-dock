@@ -54,7 +54,7 @@ USB-A power -> trunk cable (switch inline) -> Y-splitter
 - [ ] v2 tweaks from the print
 - [ ] Future: CFD airflow sim
 
-## schematics 
+## Schematics: 
 <img width="745" height="465" alt="Screenshot 2026-08-17 at 13 00 34" src="https://github.com/user-attachments/assets/ccfaa18a-7e90-4e09-b864-d8136a572a0d" />
 
 ## Screenshots in onshape 
