@@ -221,6 +221,13 @@ Overall, today's progress moved the enclosure much closer to a printable prototy
 <img width="661" height="641" alt="Screenshot 2026-07-17 at 11 04 18" src="https://github.com/user-attachments/assets/68c3887b-9283-4801-bc98-16edce849ffc" />
 <img width="632" height="717" alt="Screenshot 2026-07-17 at 11 04 01" src="https://github.com/user-attachments/assets/337013dd-da89-4833-aebb-f306087f482c" />
 
+
+# Entry 5: Schematics: 
+
+Today I added schematics, my design has been reviewed by Hack Club, I need to fix a few things with the repo and add schematic. 
+
+<img width="1375" height="860" alt="Screenshot 2026-08-17 at 13 16 54" src="https://github.com/user-attachments/assets/20c1c162-00ff-4e12-a32e-49b02b13e70d" />
+
 # Reflections — My First CAD Project
  
 This was my first CAD project ever. No class, no YouTube tutorials, no prior experience. Just me, Onshape, an idea for a cooling stand, and a lot of trial and error. But I do have *Claude Pro*, and that saved me multiple times but anyway here's what I learned.
