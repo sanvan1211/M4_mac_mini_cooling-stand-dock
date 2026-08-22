@@ -6,10 +6,10 @@ My first CAD project, built through [Hack Club Stardance](https://stardance.hack
 
 Link to design on Onshape: [Mac Mini Cooling Dock]((https://cad.onshape.com/documents/3fbcf659d7555b2671177b8a/w/d5bac3fdae6cccac52d5566e/e/496516c27ea7f88feafa57b4?renderMode=0&uiState=6a5a508fbe1f95ed6b5cbf81))
  
-> **Status:** (grant approved) build process: buying materials
-- Amazon: razer kunai fan
+> **Status:** parts ordered 
+- Amazon: razer kunai fan (arrived)
 - Aliexpress: wires and additional electronics + heat inserts
-- HACKCLUB Printing Legion 
+- HACKCLUB Printing Legion
 
 > <img width="780" height="662" alt="Screenshot 2026-07-17 at 11 40 56" src="https://github.com/user-attachments/assets/da7d0dc7-d77d-468b-b856-0ac66ace3a1e" />
  
