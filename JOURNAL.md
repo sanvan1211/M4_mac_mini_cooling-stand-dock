@@ -274,3 +274,6 @@ I can't wait to do more projects. I might try a **liquid-cooled Mac mini** as a 
 - The main chassis were shipped form Hackclub Printing legion
 - The fan was shipped from amazon
 - and the cables were shipped from Ali express
+
+There are some issues with this design: 
+- first the intake from the bottom is somewhat restricted, in the next design, it should be little taller and the side vents could be bigger
