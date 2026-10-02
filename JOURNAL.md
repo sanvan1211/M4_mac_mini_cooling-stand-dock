@@ -268,3 +268,9 @@ Really well, I'm proud of it. It went from "I can't get a dimension box to open"
 ## What's next
  
 I can't wait to do more projects. I might try a **liquid-cooled Mac mini** as a future build,  it probably wouldn't improve performance much, but it'd definitely help with thermals and keep things cool. In case I ever decide to sacrifice my Mac mini to OpenClaw.
+
+# Entry 6: Final Build
+
+- The main chassis were shipped form Hackclub Printing legion
+- The fan was shipped from amazon
+- and the cables were shipped from Ali express
