@@ -271,9 +271,14 @@ I can't wait to do more projects. I might try a **liquid-cooled Mac mini** as a 
 
 # Entry 6: Final Build
 
-- The main chassis were shipped form Hackclub Printing legion
-- The fan was shipped from amazon
-- and the cables were shipped from Ali express
+Component Sourcing
+Main chassis: Printed and shipped by Hack Club Printing Legion.
+Fan: Sourced from Amazon.
+Cables: Sourced from AliExpress.
+Design Issues and Future Improvements
 
-There are some issues with this design: 
-- first the intake from the bottom is somewhat restricted, in the next design, it should be little taller and the side vents could be bigger
+Several issues were identified during assembly and testing that will be addressed in the next design iteration:
+
+Restricted Air Intake: The bottom air intake is somewhat restricted due to insufficient clearance beneath the chassis. The next iteration will increase the chassis height and enlarge the side vents to improve airflow.
+Undersized Cable Routing Holes: The CAD-designed cable routing holes are too small to accommodate the cables underneath the chassis. These holes will be enlarged in the next iteration to allow for easier cable management and a cleaner assembly.
+Fan Mounting Mechanism: The fan was mounted using silicone screws rather than brass inserts. The silicone screws provided a more secure and sturdy mounting solution. The next iteration will revise the brass insert slots to improve fitment and mounting stability.
